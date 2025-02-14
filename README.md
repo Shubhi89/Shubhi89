@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 📫 How to reach me **shubhi.work@gmail.com ,**
+- 📫 How to reach me **shubhi.work38@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shubhidwivedi38/](https://www.linkedin.com/in/shubhidwivedi38/)
 
